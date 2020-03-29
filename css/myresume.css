@@ -21,8 +21,8 @@ h1 .text-primary {
 }
 
 .bg-primary {
-	background-color: #7c00ff!important;
-	background-image:linear-gradient(to right bottom, #fca404, OrangeWhite);
+	background-color: #f76300;
+        background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
 }
 
 .text-primary {
